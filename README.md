@@ -5,6 +5,13 @@ This project contains the bio data of the participant enrolled in the data analy
 ## Project Objective
 The objective of the project was to gather valuable insights from the bio data information gotten from the participant in the SkilHarvest Data Analytics program.
 
+## Tools
+Google form for data collection
+
+Google Spreadsheet for data analysis
+
+PowerBi for data cleaning and visualisation
+
 ## Data Collection
 Data was collected primarily through the distribution of a Google Form questionnaire among participant.
 The questionnaire contain the bio data information, including personal details, academic qualifications, professional background, marital status etc
