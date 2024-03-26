@@ -11,4 +11,8 @@ The questionnaire contain the bio data information, including personal details, 
 The data was collected using the google form and the link was shared among the participant
 You can find the google questionaire [Here](https://docs.google.com/forms/d/e/1FAIpQLSfSaM9JMLNLusHh9icL9yeQUcbAsngtb6JwfyJ2KSz7eZv_LA/viewform) and the form responses at [Data](https://docs.google.com/spreadsheets/d/1j683Iej1rexP0ZklCt4CQSEjTZpUGAfhIirowQNtk80/edit?resourcekey#gid=120058417)
 
+## Data Preprocessing Techniques
+We addressed data type inconsistencies, missing values, and text manipulations to ensure data integrity and consistency by employing **DATA CLEANING** 
+We create meaningful report to generate compelling storytelling dashboard techniques to derive meaningful insights from the data
+
 --
